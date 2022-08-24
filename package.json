@@ -1,0 +1,17 @@
+{
+  "name": "todo-json-server",
+  "version": "1.0.0",
+  "description": "JSON server with loaded todos in the database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server, heroku, node, REST API"
+  ],
+  "author": "Hafizur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
