@@ -45,18 +45,6 @@
     },
     {
         "id": 12,
-        "title": "sql"
-    },
-    {
-        "id": 13,
-        "title": "unix"
-    },
-    {
-        "id": 14,
-        "title": "spring-boot"
-    },
-    {
-        "id": 15,
         "title": "python"
     }
 ]
