@@ -4,14 +4,35 @@
             "id": 1,
             "name": "Employment Salary",
             "type": "income",
-            "amount": 1000000
+            "amount": 100000
         },
         {
             "id": 2,
             "name": "Family Expenses",
             "type": "expense",
-            "amount": 200000
+            "amount": 20000
+        },
+        {
+            "id": 3,
+            "name": "Transportation Expenses",
+            "type": "expense",
+            "amount": 10000
+        },
+        {
+            "id": 4,
+            "name": "Investment Expenses",
+            "type": "expense",
+            "amount": 40000
         }
+    ],
+    "accounts": [
+        {
+            "id": 1,
+            "name": "Hafizur Rahman",
+            "account": "Checking",
+            "balance": 30000
+        }
+
     ],
     "videos": [
         {
