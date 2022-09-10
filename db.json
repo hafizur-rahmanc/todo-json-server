@@ -23,6 +23,108 @@
             "name": "Investment Expenses",
             "type": "expense",
             "amount": 40000
+        },
+        {
+            "id": 5,
+            "name": "Google Adsense Revenue",
+            "type": "income",
+            "amount": 10000
+        },
+        {
+            "id": 6,
+            "name": "Cell Phone Purchase",
+            "type": "expense",
+            "amount": 20000
+        },
+        {
+            "id": 7,
+            "name": "Online Courses",
+            "type": "income",
+            "amount": 10000
+        },
+        {
+            "id": 8,
+            "name": "Household Shopping",
+            "type": "expense",
+            "amount": 5000
+        },
+        {
+            "id": 9,
+            "name": "Monthly Bonus",
+            "type": "income",
+            "amount": 10000
+        },
+        {
+            "id": 10,
+            "name": "Donation Expenses",
+            "type": "expense",
+            "amount": 10000
+        },
+        {
+            "id": 11,
+            "name": "Dividend Income",
+            "type": "income",
+            "amount": 5000
+        },
+        {
+            "id": 12,
+            "name": "Utility Bill",
+            "type": "expense",
+            "amount": 1000
+        },
+        {
+            "id": 13,
+            "name": "Items Sold",
+            "type": "income",
+            "amount": 10000
+        },
+        {
+            "id": 14,
+            "name": "House Rent",
+            "type": "expense",
+            "amount": 20000
+        },
+        {
+            "id": 15,
+            "name": "Due Bill Payment",
+            "type": "expense",
+            "amount": 20000
+        },
+        {
+            "id": 16,
+            "name": "Creating Online Content",
+            "type": "income",
+            "amount": 20000
+        },
+        {
+            "id": 17,
+            "name": "New Vehicle Purchase",
+            "type": "expense",
+            "amount": 30000
+        },
+        {
+            "id": 18,
+            "name": "Net Business Profit",
+            "type": "income",
+            "amount": 50000
+        },
+        {
+            "id": 19,
+            "name": "Employee Salary",
+            "type": "expense",
+            "amount": 30000
+        },
+        {
+            "id": 20,
+            "name": "Miscellaneous Income",
+            "type": "income",
+            "amount": 20000
+        },
+        {
+            "id": 21,
+            "name": "Support Relatives",
+            "type": "expense",
+            "amount": 10000
         }
     ],
     "accounts": [
